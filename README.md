@@ -6,7 +6,7 @@
 
 - [x] Application entry point
 - [x] Include logging package
-- [ ] Move from .dll to Premake
+- [x] Move from .dll to Premake
 - [ ] Event system
 - [ ] Create renderable window and window abstraction
 
